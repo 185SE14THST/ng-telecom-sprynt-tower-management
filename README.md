@@ -1,4 +1,4 @@
-# ng-military-psych-training-readiness
+#ng-telecom-sprynt-tower-management
 Todays tower costs rise as customer satisfaction decreases. Stay ahead of the curve with TMS solutions.
 
 ![Screen shot](https://github.com/185SE14THST/ng-telecom-sprynt-tower-management/blob/master/sample.jpg "Sample #1")
