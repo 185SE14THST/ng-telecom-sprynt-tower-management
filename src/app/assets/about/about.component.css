@@ -1,0 +1,23 @@
+.setup { 
+	padding: 25px;
+	background-color: #D7E3E9;
+} 
+
+.header { 
+	padding: 25px;
+	background-color: darkgrey;
+	color: white
+} 
+
+.module { 
+	padding: 25px;
+} 
+
+.solved { 
+	background: lightgreen; padding: 20px;
+} 
+
+.validate { 
+	padding-top: 50px;
+	color: lightred;
+}

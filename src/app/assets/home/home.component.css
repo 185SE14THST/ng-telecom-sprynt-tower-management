@@ -1,0 +1,23 @@
+.demo {
+	position: absolute;
+	display:inline-block;
+	top: 0;
+	bottom: 0;
+	border-radius: 0px;
+	background: linear-gradient( rgba(20,20,20, .5), rgba(20,20,20, .5)), url('background.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.message {
+	padding: 3rem 1.5rem;
+	text-align: center;
+	color: white;
+	display: inline;
+	top: 50%;
+	position: relative;
+}
+.message a {
+	
+}
