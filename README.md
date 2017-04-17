@@ -4,6 +4,7 @@ Todays tower costs rise as customer satisfaction decreases. Stay ahead of the cu
 ![Screen shot](https://github.com/185SE14THST/ng-telecom-sprynt-tower-management/blob/master/sample.jpg "Sample #1")
 
 This repo contains the samples that demonstrate a 'communications tower asset manager' for cell, telco and technicians. With further development the sample may show:
+* Integration with Google Mpas or Open Street Maps.
 * A list of styled asset data sets/tables with a SQL-backend called via REST API.
 * A scoring algorithm for instant dispatch or technician email/notifications.
 * Built in help desk ticketing system (or 3rd party integration where available).
